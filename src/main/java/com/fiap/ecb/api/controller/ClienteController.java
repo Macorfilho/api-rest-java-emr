@@ -1,4 +1,4 @@
-package com.fiap.ecb.controller;
+package com.fiap.ecb.api.controller;
 
 import com.fiap.ecb.api.model.Cliente;
 import com.fiap.ecb.api.service.ClienteService;
